@@ -21,10 +21,10 @@
 </div>
 <center>
 <h2>Hubungi Kami</h2>
-Jika anda memiliki pertanyaan, pesan, kritik dan saran. anda bisa 
+Jika anda mempunyai pertanyaan, pesan, kritik dan saran. anda bisa 
 menghubungi salah satu kontak dibawah ini:<br>
-Email: film@bioskop.com<br>
-Facebook : Film Bioskop Web <br>
-Instagram : @film_bioskop<br>
+Email: tix.kob@bioskop.com<br>
+Facebook : Tix.kob <br>
+Instagram : @Tix.Kob_bio<br>
 </center>
 </html>
