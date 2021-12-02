@@ -21,9 +21,8 @@
       </li>
 </div>       
 <div class="isi">
-<h2>Selamat datang di Website film Bioskop 2021</h2><b2>kami menyediakan berbagai film dari dalam negeri maupun luar negri.<br>
-<h3>Selamat Menonton</h3><br>
-<h4>Cintailah Produk Lokal</h4>
+<h2>WELCOME TO TIX.KOB</h2><b2>WEBSITE PEMESANAN TIKET BIOSKOP<br>
+<h3>Selamat menonton Film Favorit anda</h3><br>
 </div>
 </font>
 <footer>
